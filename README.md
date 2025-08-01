@@ -12,3 +12,7 @@ Interpretable multi-class classifier for nursery application prioritization, bui
 - **Information Gain Tree:** **97.82%** accuracy  
 - **Weighted Ensemble:** **97.88%** accuracy  
 Includes class-wise confusion matrices for interpretability.
+
+**Code**
+
+https://github.com/shaffy-dev/Custom-Decision-Trees-Weighted-Ensemble-Nursery-Dataset-/blob/80d7a05bfc79892d0ee553e7c794bf4e86b4fbe5/Decision_Tree_.ipynb
